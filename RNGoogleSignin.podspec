@@ -19,5 +19,5 @@ Pod::Spec.new do |s|
 
   s.source_files  = "ios/RNGoogleSignin/*.{h,m}"
   s.dependency "React-Core"
-  s.dependency "GoogleSignIn", "~> 5.0.0"
+  s.dependency "GoogleSignIn", "~> 6.0.0"
 end
